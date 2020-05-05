@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>a134.PNG</filename>
+	<path>E:\新增資料夾\img\a134.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>412</width>
+		<height>327</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>209</ymin>
+			<xmax>168</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

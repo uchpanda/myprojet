@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>a71.PNG</filename>
+	<path>E:\新增資料夾\img\a71.PNG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>413</width>
+		<height>312</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>123</ymin>
+			<xmax>262</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>
