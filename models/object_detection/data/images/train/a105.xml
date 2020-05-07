@@ -1,13 +1,13 @@
 <annotation>
 	<folder>img</folder>
-	<filename>a105.PNG</filename>
-	<path>E:\新增資料夾\img\a105.PNG</path>
+	<filename>a105.jpg</filename>
+	<path>C:\Users\mom\Desktop\img\a105.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>403</width>
-		<height>324</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -45,6 +45,18 @@
 			<ymin>199</ymin>
 			<xmax>228</xmax>
 			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>243</ymin>
+			<xmax>362</xmax>
+			<ymax>303</ymax>
 		</bndbox>
 	</object>
 </annotation>

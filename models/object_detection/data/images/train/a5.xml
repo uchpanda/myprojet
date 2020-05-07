@@ -1,13 +1,13 @@
 <annotation>
 	<folder>img</folder>
-	<filename>a5.PNG</filename>
-	<path>E:\新增資料夾\img\a5.PNG</path>
+	<filename>a5.jpg</filename>
+	<path>C:\Users\mom\Desktop\img\a5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>412</width>
-		<height>311</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -20,7 +20,7 @@
 			<xmin>115</xmin>
 			<ymin>157</ymin>
 			<xmax>134</xmax>
-			<ymax>190</ymax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -32,7 +32,7 @@
 			<xmin>157</xmin>
 			<ymin>181</ymin>
 			<xmax>178</xmax>
-			<ymax>206</ymax>
+			<ymax>207</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>210</xmin>
-			<ymin>262</ymin>
-			<xmax>259</xmax>
-			<ymax>309</ymax>
+			<xmin>209</xmin>
+			<ymin>264</ymin>
+			<xmax>258</xmax>
+			<ymax>311</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -55,8 +55,8 @@
 		<bndbox>
 			<xmin>223</xmin>
 			<ymin>172</ymin>
-			<xmax>244</xmax>
-			<ymax>191</ymax>
+			<xmax>245</xmax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>281</xmin>
-			<ymin>173</ymin>
-			<xmax>305</xmax>
-			<ymax>219</ymax>
+			<xmin>280</xmin>
+			<ymin>176</ymin>
+			<xmax>304</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -79,8 +79,8 @@
 		<bndbox>
 			<xmin>104</xmin>
 			<ymin>204</ymin>
-			<xmax>133</xmax>
-			<ymax>228</ymax>
+			<xmax>134</xmax>
+			<ymax>229</ymax>
 		</bndbox>
 	</object>
 </annotation>

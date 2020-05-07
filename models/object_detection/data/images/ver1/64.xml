@@ -1,13 +1,13 @@
 <annotation>
 	<folder>img</folder>
-	<filename>64.PNG</filename>
-	<path>E:\新增資料夾\img\64.PNG</path>
+	<filename>64.jpg</filename>
+	<path>C:\Users\mom\Desktop\img\64.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>492</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>249</xmin>
 			<ymin>233</ymin>
-			<xmax>274</xmax>
-			<ymax>279</ymax>
+			<xmax>275</xmax>
+			<ymax>282</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -31,8 +31,8 @@
 		<bndbox>
 			<xmin>362</xmin>
 			<ymin>251</ymin>
-			<xmax>387</xmax>
-			<ymax>310</ymax>
+			<xmax>389</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 	<object>

@@ -1,13 +1,13 @@
 <annotation>
 	<folder>img</folder>
-	<filename>a153.PNG</filename>
-	<path>E:\新增資料夾\img\a153.PNG</path>
+	<filename>a153.jpg</filename>
+	<path>C:\Users\mom\Desktop\img\a153.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>646</width>
-		<height>483</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>304</xmin>
+			<xmin>305</xmin>
 			<ymin>241</ymin>
-			<xmax>334</xmax>
+			<xmax>335</xmax>
 			<ymax>298</ymax>
 		</bndbox>
 	</object>

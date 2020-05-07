@@ -1,13 +1,13 @@
 <annotation>
 	<folder>img</folder>
-	<filename>a165.PNG</filename>
-	<path>E:\新增資料夾\img\a165.PNG</path>
+	<filename>a165.jpg</filename>
+	<path>C:\Users\mom\Desktop\img\a165.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>641</width>
-		<height>485</height>
+		<width>0</width>
+		<height>0</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -54,9 +54,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>183</xmin>
-			<ymin>282</ymin>
+			<ymin>284</ymin>
 			<xmax>223</xmax>
-			<ymax>316</ymax>
+			<ymax>318</ymax>
 		</bndbox>
 	</object>
 </annotation>
